@@ -7,3 +7,5 @@ Collection of my python projects
 [Repository](https://github.com/mohd-ahsan-mirza/git-automator)
 ## File Splitter
 [Repository](https://github.com/mohd-ahsan-mirza/file-splitter)
+## File Combine
+[Repository](https://github.com/mohd-ahsan-mirza/file-combine)
