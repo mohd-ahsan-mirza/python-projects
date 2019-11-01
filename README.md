@@ -3,6 +3,8 @@ Collection of my python projects
 # Projects
 ## Redis Local Encryptor
 [Repository](https://github.com/mohd-ahsan-mirza/redis-local-encryptor)
+## PO Conflict Resolver
+[Repository](https://github.com/mohd-ahsan-mirza/po-resolver)
 ## Git Automator
 [Repository](https://github.com/mohd-ahsan-mirza/git-automator)
 ## File Splitter
